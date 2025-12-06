@@ -112,10 +112,10 @@
   },
   "sku": "SARI4D-MAXWIN-5000",
   "mpn": "S4D-MAXWIN4D-2025",
-  "url": "https://helenanicolau.com/contacto/",
+  "url": "https://ommundumtreks.com/about/",
   "offers": {
     "@type": "Offer",
-    "url": "https://helenanicolau.com/contacto/",
+    "url": "https://ommundumtreks.com/about/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "itemCondition": "https://schema.org/NewCondition",
@@ -167,37 +167,37 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Slot Garansi Maxwin",
-      "item": "https://helenanicolau.com/contacto/"
+      "item": "https://ommundumtreks.com/about/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Situs Gampang Maxwin",
-      "item": "https://helenanicolau.com/contacto/"
+      "item": "https://ommundumtreks.com/about/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Slot Maxwin Gacor 5000",
-      "item": "https://helenanicolau.com/contacto/"
+      "item": "https://ommundumtreks.com/about/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Maxwin 4D Terupdate",
-      "item": "https://helenanicolau.com/contacto/"
+      "item": "https://ommundumtreks.com/about/"
     },
     {
       "@type": "ListItem",
-      "position": 5",
+      "position": 5,
       "name": "Slot Gacor Gampang Maxwin",
-      "item": "https://helenanicolau.com/contacto/"
+      "item": "https://ommundumtreks.com/about/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Slot Maxwin Hari Ini",
-      "item": "https://helenanicolau.com/contacto/"
+      "item": "https://ommundumtreks.com/about/"
     }
   ]
 }
@@ -207,7 +207,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "SARI4D – Slot Garansi Maxwin & Situs Gampang Maxwin 4D",
-  "url": "https://helenanicolau.com/contacto/",
+  "url": "https://ommundumtreks.com/about/",
   "logo": "https://res.cloudinary.com/dbb5t7rye/image/upload/v1754219631/Nu6iAhw80M8jX6ya_p4qtff.png",
   "sameAs": [
     "https://www.facebook.com/SARI4D",
