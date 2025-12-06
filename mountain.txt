@@ -6,7 +6,7 @@
     <head>
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://helenanicolauamp.pages.dev/" />
+<link rel="amphtml" href="https://ommundumtreksamp.pages.dev/" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -1290,11 +1290,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://helenanicolauamp.pages.dev/">
+                <a class="off-canvas-right__link" href="https://ommundumtreksamp.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://helenanicolauamp.pages.dev/">
+                <a class="off-canvas-right__link" href="https://ommundumtreksamp.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1725,14 +1725,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://helenanicolauamp.pages.dev/"
+                                                    <a href="https://ommundumtreksamp.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://helenanicolauamp.pages.dev/"
+                                                        href="https://ommundumtreksamp.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
@@ -1928,7 +1928,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://helenanicolauamp.pages.dev/"><img
+                                                href="https://ommundumtreksamp.pages.dev/"><img
                                                     alt="SARI4D™ | Slot Garansi Maxwin 5000 Situs Gampang Gacor 4D Bonus Harian - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://res.cloudinary.com/dbb5t7rye/image/upload/v1765023970/sari_banner_032_wns4by.webp"
@@ -2004,14 +2004,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://helenanicolauamp.pages.dev/"
+                                                    <a href="https://ommundumtreksamp.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://helenanicolauamp.pages.dev/"
+                                                        href="https://ommundumtreksamp.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
